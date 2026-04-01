@@ -1,7 +1,7 @@
 {
-  "name": "mti-plock-coop",
-  "version": "1.0.0",
-  "description": "MTI Płock MEGA Edition - Co-op Multiplayer",
+  "name": "mti-plock-coop-optimized",
+  "version": "2.0.0",
+  "description": "MTI Płock Co-op - Fully Optimized",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
